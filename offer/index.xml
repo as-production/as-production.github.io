@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASSSA | Oferta on ASSSA | Termiczna Obróbka Kruszyw</title>
-    <link>/portfolio/</link>
+    <link>/offer/</link>
     <description>Recent content in ASSSA | Oferta on ASSSA | Termiczna Obróbka Kruszyw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/offer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Granulacja 0.2-0.9</title>
-      <link>/portfolio/granulacja6/</link>
+      <link>/offer/granulacja6/</link>
       <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
       
-      <guid>/portfolio/granulacja6/</guid>
+      <guid>/offer/granulacja6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granulacja 2.0-3.0</title>
-      <link>/portfolio/granulacja5/</link>
+      <link>/offer/granulacja5/</link>
       <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
       
-      <guid>/portfolio/granulacja5/</guid>
+      <guid>/offer/granulacja5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granulacja 0.2-0.6</title>
-      <link>/portfolio/granulacja4/</link>
+      <link>/offer/granulacja4/</link>
       <pubDate>Mon, 23 Dec 2019 04:55:44 +0600</pubDate>
       
-      <guid>/portfolio/granulacja4/</guid>
+      <guid>/offer/granulacja4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granulacja 0.9-2.0</title>
-      <link>/portfolio/granulacja3/</link>
+      <link>/offer/granulacja3/</link>
       <pubDate>Mon, 23 Dec 2019 03:56:43 +0600</pubDate>
       
-      <guid>/portfolio/granulacja3/</guid>
+      <guid>/offer/granulacja3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granulacja 0.2-2.4</title>
-      <link>/portfolio/granulacja2/</link>
+      <link>/offer/granulacja2/</link>
       <pubDate>Mon, 23 Dec 2019 02:56:42 +0600</pubDate>
       
-      <guid>/portfolio/granulacja2/</guid>
+      <guid>/offer/granulacja2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Granulacja 0.2-1.0</title>
-      <link>/portfolio/granulacja1/</link>
+      <link>/offer/granulacja1/</link>
       <pubDate>Mon, 23 Dec 2019 01:44:46 +0600</pubDate>
       
-      <guid>/portfolio/granulacja1/</guid>
+      <guid>/offer/granulacja1/</guid>
       <description></description>
     </item>
     
