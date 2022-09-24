@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on AS | Termiczna Obróbka Kruszyw</title>
+    <title>ASSSA | Oferta on ASSSA | Termiczna Obróbka Kruszyw</title>
     <link>http://as-production.github.io/portfolio/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on AS | Termiczna Obróbka Kruszyw</description>
+    <description>Recent content in ASSSA | Oferta on ASSSA | Termiczna Obróbka Kruszyw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
@@ -12,53 +12,57 @@
     
     
     <item>
-      <title>KIO-TAPE BRAND</title>
-      <link>http://as-production.github.io/portfolio/kio-tape-2/</link>
-      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
-      
-      <guid>http://as-production.github.io/portfolio/kio-tape-2/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
-    </item>
-    
-    <item>
-      <title>USE-LESS BRAND</title>
-      <link>http://as-production.github.io/portfolio/use-less-brand/</link>
+      <title>Granulacja 0.2-0.9</title>
+      <link>http://as-production.github.io/portfolio/granulacja6/</link>
       <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
       
-      <guid>http://as-production.github.io/portfolio/use-less-brand/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://as-production.github.io/portfolio/granulacja6/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>OSEN CLOCK</title>
-      <link>http://as-production.github.io/portfolio/osen-clock/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      <title>Granulacja 2.0-3.0</title>
+      <link>http://as-production.github.io/portfolio/granulacja5/</link>
+      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
       
-      <guid>http://as-production.github.io/portfolio/osen-clock/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://as-production.github.io/portfolio/granulacja5/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>SEAMLESS WATCH</title>
-      <link>http://as-production.github.io/portfolio/seamless-watch/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
+      <title>Granulacja 0.2-0.6</title>
+      <link>http://as-production.github.io/portfolio/granulacja4/</link>
+      <pubDate>Mon, 23 Dec 2019 04:55:44 +0600</pubDate>
       
-      <guid>http://as-production.github.io/portfolio/seamless-watch/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://as-production.github.io/portfolio/granulacja4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>KIO TAPE</title>
-      <link>http://as-production.github.io/portfolio/kio-tape/</link>
-      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      <title>Granulacja 0.9-2.0</title>
+      <link>http://as-production.github.io/portfolio/granulacja3/</link>
+      <pubDate>Mon, 23 Dec 2019 03:56:43 +0600</pubDate>
       
-      <guid>http://as-production.github.io/portfolio/kio-tape/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://as-production.github.io/portfolio/granulacja3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granulacja 0.2-2.4</title>
+      <link>http://as-production.github.io/portfolio/granulacja2/</link>
+      <pubDate>Mon, 23 Dec 2019 02:56:42 +0600</pubDate>
+      
+      <guid>http://as-production.github.io/portfolio/granulacja2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granulacja 0.2-1.0</title>
+      <link>http://as-production.github.io/portfolio/granulacja1/</link>
+      <pubDate>Mon, 23 Dec 2019 01:44:46 +0600</pubDate>
+      
+      <guid>http://as-production.github.io/portfolio/granulacja1/</guid>
+      <description></description>
     </item>
     
   </channel>
